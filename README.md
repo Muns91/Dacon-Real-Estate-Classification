@@ -6,7 +6,7 @@
 # 소개
 
 1. Estate_False_classification : 데이터 EDA, 전처리 및 변환, 모델 학습 등
-2. 대회 성적 : Dacon 최종 00위
+2. 대회 성적 : Dacon 최종 43위
 3. 사용 언어 : Python
 4. 모델 : LGBM Classifier
 
